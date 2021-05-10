@@ -10,7 +10,7 @@ Contains a dashboard that shows which books are available, which are currently o
 ## Technology
 - Higher-order functions
 - Desctructuring
-- Helped functions
+- Helper functions
 - Ternerary operator
 - Spread operator
 - Object shorthand
